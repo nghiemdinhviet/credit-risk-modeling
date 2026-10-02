@@ -456,7 +456,23 @@ PostgreSQL is used as the data source for the Power BI dashboard.
 
 # 15. Power BI Dashboard
 
-The final report contains four pages.
+## Dashboard Preview
+
+### 01 — Credit Risk Overview
+
+![Credit Risk Overview](images/01_credit_risk_overview.png)
+
+### 02 — Risk Drivers
+
+![Risk Drivers](images/02_risk_drivers.png)
+
+### 03 — Model Performance
+
+![Model Performance](images/03_model_performance.png)
+
+### 04 — Customer Risk Monitoring
+
+![Customer Risk Monitoring](images/04_customer_risk_monitoring.png)
 
 ## 01 — Credit Risk Overview
 
